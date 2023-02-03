@@ -1,6 +1,6 @@
 # COVID Mapping
 
-a brief introduction, links to the map, screenshots, the primary functions(especially the function which was not covered in the lectures), libraries in use, data sources, credit, acknowledgment, and other necessary information.
+
 
 ## Overview
 
